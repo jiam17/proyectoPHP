@@ -56,7 +56,7 @@ Las contribuciones a este proyecto son bienvenidas. Si deseas agregar nuevas fun
 - 
 - 
 - 
-- 
+- Rodrigo Rivas
 - Pablo Zuniga
 
 **Licencia:** Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
