@@ -52,11 +52,8 @@ Las contribuciones a este proyecto son bienvenidas. Si deseas agregar nuevas fun
 ¡Disfruta de tu experiencia usando la Calculadora de Unidades en PHP!
 
 **Autores:**
-- 
-- 
-- 
-- 
 - Rodrigo Rivas
 - Pablo Zuniga
+- America Montoya
 
 **Licencia:** Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
