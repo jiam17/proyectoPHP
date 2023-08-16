@@ -7,7 +7,7 @@
     <title>Conversor de unidades para datos</title>
 </head>
 <body >
-
+<?php require 'index.php'; ?>
 <?php 
 require 'comp_datos.php';
 
