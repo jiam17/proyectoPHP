@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body >
-
+<?php require 'index.php'; ?>
 <?php 
 require 'longitud.php';
 
