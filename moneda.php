@@ -7,7 +7,7 @@
     <title>Conversor de unidades para monedas</title>
 </head>
 <body >
-
+<?php require 'index.php'; ?>
 <?php 
 require 'convertirmoneda.php';
 
