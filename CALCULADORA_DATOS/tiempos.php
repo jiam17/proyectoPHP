@@ -7,6 +7,8 @@
     <title>Conversor de Unidades</title>
 </head>
 <body>
+    <?php require '../index.php'; ?>
+
 <section class="container p-5">
     <form class="mt-5" action="converter.php" method="post">
         <h2 class="text-primary-emphasis">Conversor de unidades de Masa a Tiempo</h2>
